@@ -1,0 +1,7 @@
+{
+  "name": "nutrition-lab",
+  "version": "0.1.0",
+  "private": true,
+  "description": "MVP de Nutrition Lab",
+  "scripts": { "start": "node server.js" }
+}

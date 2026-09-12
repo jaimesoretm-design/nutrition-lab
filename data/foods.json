@@ -1,0 +1,6 @@
+[
+  {"id":"tofu-natural","name":"Tofu natural","diet":"vegan","kcal100":144,"protein100":17},
+  {"id":"edamame","name":"Edamame cocido","diet":"vegan","kcal100":121,"protein100":12},
+  {"id":"chickpeas","name":"Garbanzos cocidos","diet":"vegan","kcal100":164,"protein100":9},
+  {"id":"soy-yogurt","name":"Yogur de soja natural","diet":"vegan","kcal100":55,"protein100":4}
+]

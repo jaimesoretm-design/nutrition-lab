@@ -1,0 +1,4 @@
+data/users.json
+data/plans.json
+node_modules/
+.env

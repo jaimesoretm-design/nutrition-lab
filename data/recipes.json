@@ -1,0 +1,6 @@
+[
+  {"id":"tofu-bowl","name":"Bowl de tofu crujiente","diet":"vegan","tags":["protein","quick"],"kcal":610,"protein":34,"minutes":20,"ingredients":["tofu","arroz","edamame","verduras"]},
+  {"id":"cocoa-porridge","name":"Porridge de cacao y tahini","diet":"vegan","tags":["breakfast","quick"],"kcal":420,"protein":18,"minutes":10,"ingredients":["avena","plátano","tahini","semillas de cáñamo"]},
+  {"id":"chickpea-curry","name":"Curry de garbanzos","diet":"vegan","tags":["quick"],"kcal":540,"protein":24,"minutes":25,"ingredients":["garbanzos","tomate","leche de coco","espinaca"]},
+  {"id":"lentil-salad","name":"Ensalada de lentejas","diet":"vegan","tags":["vegan","protein"],"kcal":390,"protein":22,"minutes":15,"ingredients":["lentejas","pepino","tomate","hierbas frescas"]}
+]
